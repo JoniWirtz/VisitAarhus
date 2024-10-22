@@ -144,7 +144,7 @@ nav a.active {
 }
 
 #heroimage {
-	background-image: url("images/Aarhus downtown city.jpg");
+	background-image: url("./images/Aarhus downtown city.jpg");
 	width:100%;
 	height:650px;
 	background-color: lightcoral;
@@ -259,7 +259,7 @@ nav a.active {
 #aarhus{
     width:550px;
 	height: 400px;
-    background-image: url("images/Aarhusdowntownoverlay.png");
+    background-image: url("./images/Aarhusdowntownoverlay.png");
     background-repeat: no-repeat;
     background-position: 30% 35%;
 	background-color: rgb(199, 32, 47,.80);
@@ -344,7 +344,7 @@ nav a.active {
 } #dining {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Dining out.svg");
+    background-image: url("./images/assets/icons/Dining out.svg");
     float: left;
     padding: 0px 0px;
     margin: 0px -90px;
@@ -356,7 +356,7 @@ nav a.active {
 #dining:hover {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Dining over.svg");
+    background-image: url("./images/assets/icons/Dining over.svg");
     float: left;
     padding: 0px 0px;
     margin: 0px -90px;
@@ -364,7 +364,7 @@ nav a.active {
 #shopping {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/shop out.svg");
+    background-image: url("./images/assets/icons/shop out.svg");
     float: left;
     padding: 0px 0px;
     margin: 0px -70px;
@@ -376,7 +376,7 @@ nav a.active {
 #shopping:hover {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Shop over.svg");
+    background-image: url("./images/assets/icons/Shop over.svg");
     float: left;
     padding: 0px 0px;
      
@@ -384,7 +384,7 @@ nav a.active {
 #accomedations {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Accom out.svg");
+    background-image: url("./images/assets/icons/Accom out.svg");
     float: left;
     padding: 0px 0px;
     margin: 0px -50px;
@@ -396,7 +396,7 @@ nav a.active {
 #accomedations:hover {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Accom over.svg");
+    background-image: url("./images/assets/icons/Accom over.svg");
     float: left;
     padding: 0px 0px;
   
@@ -404,7 +404,7 @@ nav a.active {
 #attraction {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Camera out.svg");
+    background-image: url("./images/assets/icons/Camera out.svg");
     float: left;
     padding: 0px 0px;
     margin: 0px -10px;
@@ -416,7 +416,7 @@ nav a.active {
 #attraction:hover {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Camera over.svg");
+    background-image: url("./images/assets/icons/Camera over.svg");
     float: left;
     padding: 0px 0px;
    
@@ -424,7 +424,7 @@ nav a.active {
 #travelplan {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Planner out.svg");
+    background-image: url("./images/assets/icons/Planner out.svg");
     float: left;
     padding: 0px 0px;
     margin: 0px 10px;
@@ -436,7 +436,7 @@ nav a.active {
 #travelplan:hover {
 	width:160px;
 	height: 130px;
-    background-image: url("images/assets/icons/Planner over.svg");
+    background-image: url("./images/assets/icons/Planner over.svg");
     float: left;
     padding: 0px 0px;
    
